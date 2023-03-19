@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f1f5f8;
+}
+.content-card {
+}
+h1 {
+  color#2d3a35: ;
+}
+p {
+  color: #2d3a35;
+}
+span {
+  color: #c20a72;
+  margin-right: 10px;
+}
+button {
+  cursor: pointer;
+  outline: none;
+  background-color: #007bff;
+  color: #ffffff;
+  width: 85px;
+  height: 35px;
+  border: none;
+  border-radius: 7px;
+}
